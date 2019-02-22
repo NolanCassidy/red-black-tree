@@ -1,0 +1,48 @@
+47
+inprint
+remove 2
+max
+search 5
+insert 1
+insert 2
+search 1
+search 2
+insert 3
+inprint
+insert 10
+insert 5
+inprint
+search 5
+remove 2
+inprint
+max
+min
+remove 1
+inprint
+remove 2
+inprint
+remove 3
+inprint
+remove 4
+inprint
+remove 5
+inprint
+remove 10
+inprint
+max
+min
+search 5
+insert 5
+max
+min
+search 5
+insert -4
+insert -2
+insert 0
+insert 1
+insert 10
+insert 100
+insert 14
+inprint
+max
+min
